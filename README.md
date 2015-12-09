@@ -65,6 +65,7 @@
 
 - **[TinyDo](https://github.com/Big-Pi/TinyDo) - 一个iOS极简风格的ToDo列表 &nbsp;&nbsp;( 参考移植于 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**
 - **[ConstGenerator](https://github.com/Big-Pi/ConstGenerator) - Xcode 生成常量的插件** 
+- **[此简历Markdown原文](https://github.com/Big-Pi/Resume.md)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Github : [BigPi](https://github.com/Big-Pi)**
 
@@ -76,7 +77,7 @@
 - **有一定阅读英文文档的能力**
 - **话少,内向,习惯自己解决问题,担心协作开发时沟通不好**
 
-- **喜欢的网站 : [IT之家](http://www.ithome.com) [知乎](http://www.zhihu.com) [CocoaChina](http://www.cocoachina.com) [Stack Overflow](http://stackoverflow.com) **
+- **喜欢的网站 : [IT之家](http://www.ithome.com) [知乎](http://www.zhihu.com) [CocoaChina](http://www.cocoachina.com) [Stack Overflow](http://stackoverflow.com)** 
 
 ---
 # 致谢
