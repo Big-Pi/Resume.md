@@ -21,9 +21,12 @@
 - **[我的简历 Markdown原文](https://github.com/Big-Pi/Resume.md)**
 
 ---
+
 ## 博客
 
-## [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
+### [BigPi.me](http://bigpi.me)
+
+### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
 
 ## 技能树
 
@@ -35,6 +38,7 @@
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;翻墙: OK**
 
 ---
+
 ## 奖
 
 - <font color=#FF4500 >**英语六级**</font> **, 国二**
