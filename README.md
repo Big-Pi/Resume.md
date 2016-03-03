@@ -4,9 +4,9 @@
 
 - **[我把简历制作成 iPad App](https://github.com/Big-Pi/GPAQuery)**  <font color=#FF4500 >√</font>
   
-- <font color=#FF4500 >**[基于 Leancloud 制作的即时聊天 App ](https://github.com/Big-Pi/PiChat)  - 结合 Leancloud 数据存储和消息推送实现完整的即时聊天(注册登录,添加好友,发送语音,朋友圈,群聊)**</font>
+- <font color=#FF4500 >~~[基于 Leancloud 制作的即时聊天 App ](https://github.com/Big-Pi/PiChat)  - 结合 Leancloud 数据存储和消息推送实现完整的即时聊天(注册登录,添加好友,发送语音,朋友圈,群聊)~~</font>
   
-- <font color=#FF4500 >**[SYNU 绩点助手](https://github.com/Big-Pi/GPAQuery) - 算是个小工具 App, 查看学生信息, 图表展示成绩, 一键计算绩点**</font>
+- <font color=#FF4500 >**[SYNU 绩点助手](https://github.com/Big-Pi/GPAQuery) - 小工具 App, 查看学生信息, 图表展示成绩, 一键计算绩点**</font>
   
 - **[TinyDo](https://github.com/Big-Pi/TinyDo) - 一个iOS极简风格的记事应用   ( 参考 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**  
   
@@ -24,14 +24,14 @@
 
 ## 博客
 
-### [BigPi.me](http://bigpi.me)
+### [个人博客 BigPi.me](http://bigpi.me)
 
 ### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
 
 ## 技能树
 
-- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS: 🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰**
-- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google: 🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰**
+- **                  iOS: 🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰**
+- **            Google: 🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰🀰**
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English: 🀰🀰🀰🀰🀰🀰🀰🀰🀰**
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android: 🀰🀰🀰🀰🀰🀰🀰🀰**
 - **Html&Css&JS: 🀰🀰🀰🀰**
@@ -66,7 +66,7 @@
 - <font color=#FF4500 >**看斯坦福大学 ( 2013-2014 Fall ) | CS 193P iPhone Application Development 课程入门iOS**</font>
 - **读 Ray WenderLich iOS Apprentic ,iOS Animation By Toturial 等博客书籍 系统学习Cocoa** 
 - <font color=#FF4500 >**读 SDWebImage 等开源项目源码 并尝试撰写博客**</font>
-- **正在制作基于 Leancloud 的聊天应用**
+- ~~正在制作基于 Leancloud 的聊天应用~~
 
 ---
 
