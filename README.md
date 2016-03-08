@@ -53,7 +53,6 @@
 - **jsoup 抓取学校网页数据,制作Android 一键计算绩点工具**
 - **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/Big-Pi/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛 一等奖**
 
-
 ### &nbsp;&nbsp;&nbsp;&nbsp;Android （ 2014年6月 ~ 2015年4月 ）
 
 - **开发 Android 入门应用 “QR_Share” - 获得辽宁省大学生移动开发大赛 三等奖**
@@ -78,6 +77,6 @@
 
 ## 联系方式
 
-- **手机：18512416861 ( [辽宁沈阳](http://j.map.baidu.com/YMRz7) )**
 - **Email：wangdapishuai@163.com**
+- **手机：18512416861**
 - **QQ/微信号：wangdapishuai**
