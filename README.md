@@ -48,17 +48,17 @@
 
 ## 编程经历
 
-### &nbsp;&nbsp;&nbsp;&nbsp;C&Web （ 2013年4月 ~ 2014年6月 ）
+###     C&Web （ 2013年4月 ~ 2014年6月 ）
 
-- **jsoup 抓取学校网页数据,制作Android 一键计算绩点工具**
 - **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/Big-Pi/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛 一等奖**
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Android （ 2014年6月 ~ 2015年4月 ）
+###     Android （ 2014年6月 ~ 2015年4月 ）
 
 - **开发 Android 入门应用 “QR_Share” - 获得辽宁省大学生移动开发大赛 三等奖**
 - **开发 Android 锁屏应用 “芝麻开门” - 获得辽宁省大学生移动开发大赛 成功参赛奖**
+- **jsoup 抓取学校网页数据,制作Android 一键计算绩点工具**
 
-### &nbsp;&nbsp;&nbsp;&nbsp;iOS (2015年5月 ~ )
+###     iOS (2015年5月 ~ )
 
 - **在 windows 上安装 Objective-C 环境学习 OC 语言**
 - <font color=#FF4500 >**看斯坦福大学 ( 2013-2014 Fall ) | CS 193P iPhone Application Development 课程入门iOS**</font>
