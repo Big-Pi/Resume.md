@@ -8,7 +8,7 @@
 
 - <font color=#FF4500 >**[SYNU 绩点助手](https://github.com/Big-Pi/GPAQuery) - 小工具 App, 查看学生信息, 图表展示成绩, 一键计算绩点**</font>
 
-- **[TinyDo](https://github.com/Big-Pi/TinyDo) - 一个iOS极简风格的记事应用   ( 参考 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**  
+- **[TinyDo](https://github.com/Big-Pi/TinyDo) - 一个iOS极简风格的记事应用   ( 参考 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**  
 
   #### 其它 :
 
@@ -35,7 +35,7 @@
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English: 🀰🀰🀰🀰🀰🀰🀰🀰🀰**
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android: 🀰🀰🀰🀰🀰🀰🀰🀰**
 - **Html&Css&JS: 🀰🀰🀰🀰**
-- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;翻墙: OK**
+- **                 翻墙: OK**
 
 ---
 
@@ -72,7 +72,7 @@
 
 - **喜欢解决问题 ,有一定的自学能力 和 阅读英文文档的能力**
 - **王帅 / 男 / 1994**
-- **二本 / 2012 - 2016 [沈阳工程学院](http://www.sie.edu.cn) - 机械系 ( 2016应届毕业生 )**
+- **本科 / 2012 - 2016 [沈阳工程学院](http://www.sie.edu.cn) - 机械系 ( 2016应届毕业生 )**
 - **期望城市 / 职位：北京,北美 / iOS客户端开发**
 
 ## 联系方式
