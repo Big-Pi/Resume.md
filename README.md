@@ -22,11 +22,14 @@
 
 ---
 
+
 ## 博客
 
 ### [个人博客 BigPi.me](http://bigpi.me)
 
+
 ### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
+
 
 ## 技能树
 
@@ -35,7 +38,8 @@
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English: 🀰🀰🀰🀰🀰🀰🀰🀰🀰**
 - **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android: 🀰🀰🀰🀰🀰🀰🀰🀰**
 - **Html&Css&JS: 🀰🀰🀰🀰**
-- **                 翻墙: OK**
+- **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;翻墙: OK**
+
 
 ---
 
