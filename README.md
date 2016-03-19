@@ -1,8 +1,8 @@
 
-
+---
 ## GitHub
 
-- **[我把简历制作成 iPad App](https://github.com/Big-Pi/GPAQuery)**  <font color=#FF4500 >√</font>
+- **[我把简历制作成 iPad App](https://github.com/Big-Pi/MyResume)**  <font color=#FF4500 >√</font>
 
 - <font color=#FF4500 >**[基于 Leancloud 制作的即时聊天 App ](https://github.com/Big-Pi/PiChat)  - 结合 Leancloud 数据存储和消息推送实现完整的即时聊天(注册登录,添加好友,发送语音,朋友圈,群聊)**</font>
 
@@ -18,18 +18,19 @@
 
 - **[PiXMLParserLogger](https://github.com/Big-Pi/PiXMLParserLogger) - 方便格式化输出 XML, 方便调试**
 
-- **[我的简历 Markdown原文](https://github.com/Big-Pi/Resume.md)**
+- **[Markdown 简历](https://github.com/Big-Pi/Resume.md)**
 
 ---
 
 
 ## 博客
 
-### [个人博客 BigPi.me](http://bigpi.me)
+### [个人博客 http://BigPi.me](http://bigpi.me)
 
 
 ### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
 
+---
 
 ## 技能树
 
@@ -54,7 +55,7 @@
 
 ###     C&Web （ 2013年4月 ~ 2014年6月 ）
 
-- **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/Big-Pi/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛 一等奖**
+- **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/Big-Pi/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛-东北赛区 一等奖**
 
 ###     Android （ 2014年6月 ~ 2015年4月 ）
 
@@ -77,10 +78,11 @@
 - **喜欢解决问题 ,有一定的自学能力 和 阅读英文文档的能力**
 - **王帅 / 男 / 1994**
 - **本科 / 2012 - 2016 [沈阳工程学院](http://www.sie.edu.cn) - 机械系 ( 2016应届毕业生 )**
-- **期望城市 / 职位：北京,北美 / iOS客户端开发**
+- **期望城市 / 职位：北京,北美,大连 / iOS客户端开发**
 
 ## 联系方式
 
 - **Email：wangdapishuai@163.com**
 - **手机：18512416861**
 - **QQ/微信号：wangdapishuai**
+- **面试时我会带上作品**
