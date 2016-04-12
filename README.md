@@ -82,7 +82,7 @@
 
 ## 联系方式
 
-- **Email：wangdapishuai@163.com**
+- **Email：MisterBigPi@gmail.com**
 - **手机：18512416861**
 - **QQ/微信号：wangdapishuai**
 - <font color=#FF4500 >**面试时我会带上作品**</font>
