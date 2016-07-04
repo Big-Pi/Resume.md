@@ -2,28 +2,28 @@
 ---
 # GitHub
 
-- **[我把简历制作成 iPad App](https://github.com/Big-Pi/MyResume)**  <font color=#FF4500 >√</font>
+- **[我把简历制作成 iPad App](https://github.com/iShawnWang/MyResume)**  <font color=#FF4500 >√</font>
 
-- <font color=#FF4500 >**[基于 Leancloud 制作的即时聊天 App ](https://github.com/Big-Pi/PiChat)  - 结合 Leancloud 数据存储和消息推送实现完整的即时聊天(注册登录,添加好友,发送语音,朋友圈,群聊)**</font>
+- <font color=#FF4500 >**[基于 Leancloud 制作的即时聊天 App ](https://github.com/iShawnWang/PiChat)  - 结合 Leancloud 数据存储和消息推送实现完整的即时聊天(注册登录,添加好友,发送语音,朋友圈,群聊)**</font>
 
-- <font color=#FF4500 >**[SYNU 绩点助手](https://github.com/Big-Pi/GPAQuery) - 帮别人制作的毕业设计 App, 查看学生信息, 图表展示成绩, 计算绩点**</font>
+- <font color=#FF4500 >**[SYNU 绩点助手](https://github.com/iShawnWang/GPAQuery) - 帮别人制作的毕业设计 App, 查看学生信息, 图表展示成绩, 计算绩点**</font>
 
-- **[TinyDo](https://github.com/Big-Pi/TinyDo) - 一个iOS极简风格的记事应用 ,也是我的第一个 iOS App  ( 参考 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**  
+- **[TinyDo](https://github.com/iShawnWang/TinyDo) - 一个iOS极简风格的记事应用 ,也是我的第一个 iOS App  ( 参考 [WP平台TinyDo](http://www.windowsphone.com/zh-cn/store/app/tinydo/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) )**  
 
   #### 其它 :
 
-- ~~[ConstGenerator](https://github.com/Big-Pi/ConstGenerator) - Xcode 快速生成常量的插件~~
+- ~~[ConstGenerator](https://github.com/iShawnWang/ConstGenerator) - Xcode 快速生成常量的插件~~
 
-- **[UnicodeLog](https://github.com/Big-Pi/UnicodeLog) - 让 NSArray NSDictionary 及其子类输出中文 description**
+- **[UnicodeLog](https://github.com/iShawnWang/UnicodeLog) - 让 NSArray NSDictionary 及其子类输出中文 description**
 
-- **[Markdown 简历](https://github.com/Big-Pi/Resume.md)**
+- **[Markdown 简历](https://github.com/iShawnWang/Resume.md)**
 
 ---
 
 
 # 博客
 
-### [Farbox 博客 BigPi.me](http://bigpi.me)
+### [Farbox 博客 iShawn.wang](http://ishawn.wang)
 
 
 ### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
@@ -53,7 +53,7 @@
 
 ###     C&Web （ 2013年4月 ~ 2014年6月 ）
 
-- **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/Big-Pi/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛-东北赛区 一等奖**
+- **开发web项目 (js为主) “[机械零件3D虚拟装配实验平台](https://github.com/iShawnWang/Mechanical-Part-Assemble-Virtual-experiment-platform)” - 获得全国计算机设计大赛-东北赛区 一等奖**
 
 ###     Android （ 2014年6月 ~ 2015年4月 ）
 
@@ -80,7 +80,7 @@
 
 # 联系方式
 
-- **Email：BigPi@outlook.com**
+- **Email：iShawnWang.com**
 - **手机：18512416861**
 - **QQ / 微信号：877578973 / wangdapishuai**
 - <font color=#FF4500 >**面试时我会带上作品**</font>
