@@ -80,7 +80,7 @@
 
 # 联系方式
 
-- **Email：iShawnWang.com**
+- **Email：iShawnWang@outlook.com**
 - **手机：18512416861**
 - **QQ / 微信号：877578973 / wangdapishuai**
 - <font color=#FF4500 >**面试时我会带上作品**</font>
