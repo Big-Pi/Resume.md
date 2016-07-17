@@ -1,0 +1,117 @@
+# <center>自荐</center>
+
+# 作品
+
+- 我做的最好,最用心的 App [PiChat](https://github.com/iShawnWang/PiChat) ,是一个基于 [Leancloud](https://leancloud.cn) 的即时聊天 App
+- 学习前端知识时做过 [机械零件装配虚拟实验平台](https://github.com/iShawnWang/Mechanical-Part-Assemble-Virtual-experiment-platform) - 一个在线展示3D 零件的东西,还侥幸获得了[中国大学生计算机设计大赛-东北赛区](http://www.jsjds.org)的一等奖,当然,代码很水...
+- 我的第一个 iOS App [TinyDo](https://github.com/iShawnWang/TinyDo) ,模仿一个 WindowsPhone 上的 [TODO](https://www.microsoft.com/zh-cn/store/phoneappid/ea0f699d-f6c0-4008-a228-8d9d1974c2c6) 应用
+- [MyResume iOS App](https://github.com/iShawnWang/MyResume) 也就是把简历做成了一个 App
+- 帮同学做的毕业设计 [沈阳师范大学绩点小助手](https://github.com/iShawnWang/GPAQuery) ,包括毕业论文, PPT 等, 赚了第一桶金 ¥1000  :)
+
+# 博客
+#### [iShawn.wang](http://ishawn.wang)
+
+其中几篇博文:
+
+- [图片缓存框架 FastImageCache 解析](http://ishawn.wang/post/fastimagecache/tu-pian-huan-cun-kuang-jia-fastimagecache-jie-xi)
+- [SDWebImage 源码分析](http://ishawn.wang/category/sdwebimage)
+- [JazzHands 使用及源码解析](http://ishawn.wang/category/jazzhands)
+- [缓存Cell行高的基本思路](http://ishawn.wang/post/ios/ios_huan-cun-cellxing-gao-de-ji-ben-si-lu)
+- [iOS 抓取 HTML ,CSS XPath 解析数据](http://ishawn.wang/post/ios/ios-zhua-qu-html-css-xpath-jie-xi-shu-ju)
+
+# 编程能力
+
+- 在制作这些 App 的过程中,我接触到了数据库存储,Git,自定义 View, 转场动画,阅读修改第三方库源代码,缓存机制,Collectionview 布局动画, Tableview 优化,Runtime ,封装重构等等东西,我不敢说完全理解掌握了这些知识,但是我都亲身的写过代码去尝试,研究过这些东西,阅读过很多国内外的博客,经常刷 StackOverflow 解决奇怪的问题,看 Github 上第三方库的部分代码,研究某个功能特性是怎样实现的.
+
+- 我觉得目前最大的问题就是我一直都在闭门造车,我身边没有学习计算机的同学,或者说我不善沟通,没有结交计算机专业的同学,我一直都不知道我的 App 做的是否够好,实现某个功能的思路是否正确,能不能再优化等等
+
+
+# 学习和解决过的难点
+
+* Runtime :
+	- Method Swizzling  hook ViewController 的 `dealloc` ,分析其是否及时释放,有没有被 block 引用 self 导致引用循环等,
+	- Object Associate 在 Category 里为类添加额外的属性
+- 阅读分析 SDWebImage ,FastImageCache 的源码
+- 修改 [JSQMessageController](https://github.com/jessesquires/JSQMessagesViewController) 源码,自定义键盘等
+- 阅读分析动画框架 [JazzHands](https://github.com/IFTTT/JazzHands)的源码
+- 了解 iOS 事件分发机制, 自定义 View 中使用 `-(UIView *)hitTest: withEvent:` 方法,判断手指点击在 View 上还是屏幕其他位置
+- 学习 Leancloud [云端存储SDK](https://leancloud.cn/docs/leanstorage_guide-ios.html), (类似 Firebase) ,[即时通讯 SDK](https://leancloud.cn/docs/realtime_guide-ios.html), (类似环信)
+- 自定义 ViewController 的转场动画
+- 学习使用优秀但不为人知的第三方库 [YapDatabase](https://github.com/yapstudios/YapDatabase)
+- 学习 iOS 消息传递,通信机制,优化 [NSNotifcation 的使用](http://ishawn.wang/post/ios/rang-nsnotification-yong-qi-lai-geng-shu-shuang)
+- 阅读博客提高自己的代码质量,编写单元测试, NSAssert @throw Exception 错误处理,日志系统等
+- 学习 Instrument 的基本使用,性能优化等
+- 自己实现 Tableview 缓存行高 :
+
+* 设计 PiChat 的朋友圈的过程中,其 MomentCell 里嵌套着 UICollectionview 和 UITableview, 所以滑动起来性能很差,通过 Google 搜索相关优化的问题,
+	- 通过 [YY 的博客](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/), [文章2](http://www.jianshu.com/p/5c968a240e27), [文章3](http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/),了解到了一些UITableview 性能优化的技巧,如避免离屏渲染,子线程计算 Cell 高度,缓存行高等思路
+	- 然后参考了[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell),[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController),等开源项目缓存行高的方法,自己实现了一个最简单的[行高缓存工具类](http://ishawn.wang/post/ios/ios_huan-cun-cellxing-gao-de-ji-ben-si-lu)
+
+* 读 SDWebImage , FastImageCache 的源码了解缓存工具类的设计思路和实现
+	- 一般我们都使用 SDWebImage 来方便下载缓存图片,我为了提高自己能力,开始尝试阅读 SDWebImage 的源码,期间有很多不理解的东西,比如它为什么下载完图片要解码,dispatch_ barrier 是什么东西,怎么管理内存,磁盘缓存等,好在我没轻易放弃,慢慢 Google + StackOverflow 搜索阅读相关资料,学到了很多东西
+
+	- FastImageCache 是我最近看 [YYCache 设计思路](http://blog.ibireme.com/2015/10/26/yycache/) 这篇文章了解到的,这个库使用的人较少,相关资料也非常少,不过通过使用和尝试阅读源码,学到了 mmap 实现磁盘缓存的新颖思路, FastImageCache 没有内存缓存和下载图片的功能,用 mmap 实现了非常高效,且内存占用很低的磁盘缓存
+
+* 与此同时,我也深切的了解到我基础知识的不足,Google mmap相关的资料时,我阅读起来非常吃力,比如虚拟内存,内存分页等概念完全不了解,还有之前在看 UITableview 性能优化的过程中,对 GPU,图形渲染等方面知识的匮乏,促使我一定要恶补一下底层的计算机知识
+	- 去`知乎`讨教过学习底层知识的方法,发现学习他们推荐的国外名牌大学的计算机课程很吃力,所以现在在 [Coursera](https://www.coursera.org) 和 [中国大学 Mooc](http://www.icourse163.org) ,学习国内知名大学的 CS 课程, 现在刚刚学完[哈工大的计算机专业导论](http://www.icourse163.org/learn/hit-437006?tid=1001670001#/learn/announce), 正在学习[南京大学的计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong) 课程
+
+---
+
+# 起步
+
+- 接触编程是在大二的 C 语言课程上,加上从小就喜欢折腾电脑,优化系统,之类的.
+- 也有点我哥(Java 后端 Coder)的影响下步入了 Coder 的行列
+- 当时他推荐我试着做一个 Android App,期间也尝试过前端
+* 我学习 iOS 开发的方式:
+	- [斯坦福大学公开课：iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html)
+	- [Raywenderlich](https://www.raywenderlich.com) 
+	- [Objc 中国](https://www.objccn.io) 
+	- [NSHipster](http://nshipster.cn) 
+	- [CocoaChina](http://www.cocoachina.com) 
+	- 当然还有国内知名培训机构的iOS 开发视频 :)
+- 然后我就一直学习编程到现在,随心所欲,也有点闭门造车的做着自己的 App.
+
+# 数据结构与算法 
+
+- 这个自学起来好恶心... 也没有编写图形界面 App 的成就感... 主要还是学完了也不常用... 照着书写过几遍排序,递归,贪心算法,二叉树之类的小题目,然后过一段时间就忘了...  
+
+- 最早接触算法是当年看过一本 [Java数据结构和算法](https://book.douban.com/subject/1144007/) 的书籍.. 第一次接触到到 **'递归'** 这个有趣的概念...感觉好神奇..还给寝室同学分享...计算机里有个递归,可以自己调用自己...特别有意思...~  
+- 几大排序算法也基本理解了,不过过一段时间自己实现某个算法时一定会出错... 
+
+- 现在有一点点体会到了学习数据结构和算法的必要性了... 虽然实际制作 App 的过程中,应该很少能让我自己设计一些算法,或者应用树,图等数据结构吧,但是在学习二叉树,快速排序等优秀算法的过程中,慢慢会有一种计算机的思维,程序化思维. 
+
+- 请教过一个的前辈,他推荐我刷刷 [Leetcode](https://leetcode.com) ,去做第一题时发现不支持 OC! 等找到工作并且稳定了之后学学 Swift 再来刷题把 :(
+
+# 博客,笔记
+
+- 早在13年左右学习 Android 开发时,就开始用 Onenote 做笔记总结,到现在已有1G 的笔记了,记录了我学过的东西,将要学的东西,更多的是对自己踩过的坑的总结.
+
+- 试着写过博客,用 [Farbox](https://www.farbox.com) 搭建了自己的博客,并在 [万网](https://wanwang.aliyun.com) 购买了域名: [iShawn.wang](http://iShawn.wang/about.md), 同时也把自己写得博文发布在 [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles) 上
+
+- 这些博文都算不上多么高深或者多么精华的文章,但也算是我对学习,理解的东西的一个总结,比如 SDWebImage 的5篇文章,促使我对 SDW 有更深入的理解,现在使用SDW 的过程中,有什么不确定的地方,敢于直接 Command + 左键点进去看源码
+
+- [IFTTT 的 JazzHands](https://github.com/IFTTT/JazzHands) 这个库特别适合用来做 App 特性展示,介绍的界面,在 Google 搜索这个库相关的资料特别少,我就自己尝试用它写小 Demo, 然后分析它的源码,并写了 [几篇博客](http://ishawn.wang/category/jazzhands) 总结一下.
+
+- 我也经常逛别人的个人博客或者 CocoaChina 之类的 iOS 博客,但还是更喜欢 [Raywenderlich](https://www.raywenderlich.com) ,[Tuts +](http://code.tutsplus.com/categories/ios-sdk) 之类的网站,因为它们的每一篇文章都有 Demo, 而不是只讲一些大道理.
+
+- 还有两个网站 [Objc.io](http://www.objccn.io) , [NSHispter](http://nshipster.cn),它们都按分类提供了高质量的文章,我读过一些,但都不敢说完全理解了.
+以后深入某个部分,如 Core Animation ,Map Kit 等,一定要好好读一下这2个网站的文章.
+
+- 还有 [WWDC 视频](https://github.com/insidegui/WWDC), 接触 iOS 太晚了..大概 iOS 8 我才开始学习 iOS 开发,WWDC 视频实在太多了,要不然都想把它们全看一遍了,印象最深的是 Collectionview 的,视频讲解的非常详细,易懂,以后要多看看 WWDC 视频,全面的了解 Cocoa Touch.
+
+# 翻墙
+
+- 越来越感觉到百度这个搜索引擎如同知乎网友说的一样了,`百度是局域网`
+- 现在在 [搬瓦工](https://bandwagonhost.com) 买了 VPS, 然后 [自己搭 SS 和 VPN](http://ishawn.wang/post/hua-shi-fan-qiang-_gfw/ji-jian-de-ban-wa-gong-_bandwagon_da-jian-ss-pptp_vpn_zhi-nan), 并把 Safari 的默认搜索引擎换成了 Google, 以后工作,搜索 Code 相关的问题就用 English + Google 了.
+
+# 关于我
+
+- 我的 [Github](https://github.com/iShawnWang)
+- 个人博客 [iShawn.wang](http://ishawn.wang)
+- 喜欢的网站 : [V2EX](https://www.v2ex.com), [StackOverflow](http://stackoverflow.com) ,[知乎](http://www.zhihu.com)
+- 喜欢的 App : [Alfred](https://www.alfredapp.com) ,[1Password](https://1password.com) ,[ShadowsocksX](https://github.com/shadowsocks/shadowsocks/wiki) ,[Sketch](https://www.sketchapp.com)
+- 我刚刚在辽宁省沈阳市-[沈阳工程学院](http://www.sie.edu.cn)毕业,学的是 "机械设计制造及其自动化" 专业
+- 与信息系毕业生相比,计算机原理,数据结构与算法,编译原理等底层知识知之甚少,正在学习 [Coursera](https://www.coursera.org) 上的名校 CS 课程恶补
+
+# 最后 
+个人信息,联系方式等,见 [MarkDown 简历](https://github.com/iShawnWang/Resume.md)
