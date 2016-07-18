@@ -68,7 +68,7 @@
 	- [Objc 中国](https://www.objccn.io) 
 	- [NSHipster](http://nshipster.cn) 
 	- [CocoaChina](http://www.cocoachina.com) 
-	- 当然还有国内知名培训机构的iOS 开发视频 :)
+	- 当然还有国内某知名培训机构的iOS 开发视频 ~
 - 然后我就一直学习编程到现在,随心所欲,也有点闭门造车的做着自己的 App.
 
 # 数据结构与算法 
