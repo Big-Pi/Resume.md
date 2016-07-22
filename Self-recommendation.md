@@ -53,7 +53,8 @@
 	- FastImageCache 是我最近看 [YYCache 设计思路](http://blog.ibireme.com/2015/10/26/yycache/) 这篇文章了解到的,这个库使用的人较少,相关资料也非常少,不过通过使用和尝试阅读源码,学到了 mmap 实现磁盘缓存的新颖思路, FastImageCache 没有内存缓存和下载图片的功能,用 mmap 实现了非常高效,且内存占用很低的磁盘缓存
 
 * 与此同时,我也深切的了解到我基础知识的不足,Google mmap相关的资料时,我阅读起来非常吃力,比如虚拟内存,内存分页等概念完全不了解,还有之前在看 UITableview 性能优化的过程中,对 GPU,图形渲染等方面知识的匮乏,促使我一定要恶补一下底层的计算机知识
-	- 去`知乎`讨教过学习底层知识的方法,发现学习他们推荐的国外名牌大学的计算机课程很吃力,所以现在在 [Coursera](https://www.coursera.org) 和 [中国大学 Mooc](http://www.icourse163.org) ,学习国内知名大学的 CS 课程, 现在刚刚学完[哈工大的计算机专业导论](http://www.icourse163.org/learn/hit-437006?tid=1001670001#/learn/announce), 正在学习[南京大学的计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong) 课程
+	- 去`知乎`讨教过学习底层知识的方法,发现学习他们推荐的国外名牌大学的计算机课程很吃力
+	- 所以现在在 [Coursera](https://www.coursera.org) 和 [中国大学 Mooc](http://www.icourse163.org) ,学习国内知名大学的 CS 课程, 现在刚刚学完 [哈工大的计算机专业导论](http://www.icourse163.org/learn/hit-437006?tid=1001670001#/learn/announce), 正在学习 [南京大学的计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong) 课程
 
 ---
 
@@ -76,7 +77,7 @@
 - 这个自学起来好恶心... 也没有编写图形界面 App 的成就感... 主要还是学完了也不常用... 照着书写过几遍排序,递归,贪心算法,二叉树之类的小题目,然后过一段时间就忘了...  
 
 - 最早接触算法是当年看过一本 [Java数据结构和算法](https://book.douban.com/subject/1144007/) 的书籍.. 第一次接触到到 **'递归'** 这个有趣的概念...感觉好神奇..还给寝室同学分享...计算机里有个递归,可以自己调用自己...特别有意思...~  
-- 几大排序算法也基本理解了,不过过一段时间自己实现某个算法时一定会出错... 
+- 数据结构和几大排序算法也基本理解了,不过过一段时间自己实现某个算法时一定会出错... 
 
 - 现在有一点点体会到了学习数据结构和算法的必要性了... 虽然实际制作 App 的过程中,应该很少能让我自己设计一些算法,或者应用树,图等数据结构吧,但是在学习二叉树,快速排序等优秀算法的过程中,慢慢会有一种计算机的思维,程序化思维. 
 
@@ -102,7 +103,8 @@
 # 翻墙
 
 - 越来越感觉到百度这个搜索引擎如同知乎网友说的一样了,`百度是局域网`
-- 现在在 [搬瓦工](https://bandwagonhost.com) 买了 VPS, 然后 [自己搭 SS 和 VPN](http://ishawn.wang/post/hua-shi-fan-qiang-_gfw/ji-jian-de-ban-wa-gong-_bandwagon_da-jian-ss-pptp_vpn_zhi-nan), 并把 Safari 的默认搜索引擎换成了 Google, 以后工作,搜索 Code 相关的问题就用 English + Google 了.
+- 现在在 [搬瓦工](https://bandwagonhost.com) 买了 VPS, 然后 [自己搭 SS 和 VPN](http://ishawn.wang/post/hua-shi-fan-qiang-_gfw/ji-jian-de-ban-wa-gong-_bandwagon_da-jian-ss-pptp_vpn_zhi-nan)
+- 并把 Safari 的默认搜索引擎换成了 Google, 以后工作,搜索 Code 相关的问题还是 Google + English 比较靠谱
 
 # 关于我
 
@@ -111,7 +113,6 @@
 - 喜欢的网站 : [V2EX](https://www.v2ex.com), [StackOverflow](http://stackoverflow.com) ,[知乎](http://www.zhihu.com)
 - 喜欢的 App : [Alfred](https://www.alfredapp.com) ,[1Password](https://1password.com) ,[ShadowsocksX](https://github.com/shadowsocks/shadowsocks/wiki) ,[Sketch](https://www.sketchapp.com)
 - 我刚刚在辽宁省沈阳市-[沈阳工程学院](http://www.sie.edu.cn)毕业,学的是 "机械设计制造及其自动化" 专业
-- 与信息系毕业生相比,计算机原理,数据结构与算法,编译原理等底层知识知之甚少,正在学习 [Coursera](https://www.coursera.org) 上的名校 CS 课程恶补
 
 # 最后 
 个人信息,联系方式等,见 [MarkDown 简历](https://github.com/iShawnWang/Resume.md)
