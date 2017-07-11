@@ -23,7 +23,7 @@
 
 # 博客
 
-### [Farbox 博客 iShawn.wang](http://ishawn.wang)
+### [博客 iShawn.wang](https://www.ishawn.wang)
 
 
 ### [简书](http://www.jianshu.com/users/192cd7521ac8/latest_articles)
@@ -67,7 +67,7 @@
 - <font color=#FF4500 >**看斯坦福大学 ( 2013-2014 Fall ) | CS 193P iPhone Application Development 课程入门iOS**</font>
 - **读 Ray WenderLich iOS Apprentic ,iOS Animation By Toturial 等博客书籍 系统学习Cocoa** 
 - <font color=#FF4500 >**读 SDWebImage 等开源项目源码 并尝试撰写博客**</font>
-- **正在制作基于 Leancloud 的聊天应用**
+- **制作基于 Leancloud 的聊天应用**
 
 ---
 
@@ -76,11 +76,11 @@
 - **喜欢解决问题 ,有一定的自学能力 和 阅读英文文档的能力**
 - **王帅 / 男 / 1994**
 - **本科 / 2012 - 2016 [沈阳工程学院](http://www.sie.edu.cn)  二本 - 机械系 ( 2016应届毕业生 )**
-- **期望城市 / 职位：北京,南京,北美 / iOS 开发**
+- **期望城市 / 职位：北京,上海,北美 / iOS 开发**
 
 # 联系方式
 
-- **Email：iShawnWang@outlook.com**
+- **Email：iShawnWang2333@gmail.com**
 - **手机：18512416861**
 - **QQ / 微信号：877578973 / wangdapishuai**
 - <font color=#FF4500 >**面试时我会带上作品**</font>
