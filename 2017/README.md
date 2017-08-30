@@ -5,11 +5,31 @@
 
 
 # 暴露水平的 Blog
-[V2EX]()
+
+[iShawn.wang](https://ishawn.wang)  
+
+- 基于 [Ghost](https://ghost.org),  搭建在 [Vultr](https://www.vultr.com) VPS 上
+- 还写了篇 博客 迁移小总结 : [博客搬家 Vultr + Ghost](https://www.ishawn.wang/20/)
+- 也同步发在 [我的简书](http://www.jianshu.com/u/192cd7521ac8)
+
+
+
+#### 还算可以的文章
+
+最近的文章 : 
+
+- [Python Scrapy V2EX 爬虫](https://www.ishawn.wang/25/)
+- [Node 服务端接口 & 爬虫](https://ishawn.wang/24/)
+- [React Native 试水](https://ishawn.wang/21/)
+
+一年前还不错的文章:
+
+1. [SDWebImage 源码分析系列](https://ishawn.wang/8/)
+2. [iOS 抓取 HTML ,CSS XPath 解析数据](https://ishawn.wang/5/) : 被 [伯乐在线](http://www.jobbole.com) 推荐过
+3. [图片缓存框架 FastImageCache 解析](https://ishawn.wang/3/)
+
 
 --- 
-
-写的文章被 JOB Bole 伯乐在线转载 [iOS 抓取 HTML ,CSS XPath 解析数据](http://ios.jobbole.com/92961)
 
 Node JS [V2EX_Nodejs](https://github.com/iShawnWang/V2EX_Nodejs)
 Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler)
@@ -20,7 +40,7 @@ Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler
 
 悟空遥控的海外版 : [CetusPlay](https://itunes.apple.com/us/app/cetusplay/id1219898700?mt=8)
 
-65% 由我开发的 [swift3 + tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
+2 人合力开发的 [swift3 + tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
 
 我离职之前 HR 妹纸在 V2 发招聘贴了..  [{北京} 悟空向各路英雄豪杰广发英雄帖](https://www.v2ex.com/t/364008) 
 
