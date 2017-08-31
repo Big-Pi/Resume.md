@@ -5,11 +5,29 @@
 
 
 # 暴露水平的 Blog
-[V2EX]()
+
+[iShawn.wang](https://ishawn.wang)  
+
+- 基于 [Ghost](https://ghost.org),  搭建在 [Vultr](https://www.vultr.com) VPS 上
+- 还写了篇 博客 迁移小总结 : [博客搬家 Vultr + Ghost](https://www.ishawn.wang/20/)
+- 也同步发在 [我的简书](http://www.jianshu.com/u/192cd7521ac8)
+
+#### 还算可以的文章
+
+最近的文章 : 
+
+- [Python Scrapy V2EX 爬虫](https://www.ishawn.wang/25/)
+- [Node 服务端接口 & 爬虫](https://ishawn.wang/24/)
+- [React Native 试水](https://ishawn.wang/21/)
+
+一年前还不错的文章:
+
+1. [SDWebImage 源码分析系列](https://ishawn.wang/8/)
+2. [iOS 抓取 HTML ,CSS XPath 解析数据](https://ishawn.wang/5/) : 被 [伯乐在线](http://www.jobbole.com) 推荐过
+3. [图片缓存框架 FastImageCache 解析](https://ishawn.wang/3/)
+
 
 --- 
-
-写的文章被 JOB Bole 伯乐在线转载 [iOS 抓取 HTML ,CSS XPath 解析数据](http://ios.jobbole.com/92961)
 
 Node JS [V2EX_Nodejs](https://github.com/iShawnWang/V2EX_Nodejs)
 Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler)
@@ -39,15 +57,21 @@ Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler
 
 [悟空遥控器--好用的智能电视助手](https://itunes.apple.com/de/app/悟空遥控器-好用的智能电视助手/id963627758?mt=8) 和 [官网](http://www.wukongtv.com)
 
+- 公司主要项目
+
 悟空遥控的海外版 : [CetusPlay](https://itunes.apple.com/us/app/cetusplay/id1219898700?mt=8)
 
-65% 由我开发的 [swift3 + tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
+- 抽取公版功能, 修改界面动画, 相当于换壳应用
+
+2 人合力开发的 [tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
+
+- pure Swift3
+- Moya
+- 内购 IAP
 
 我离职之前 HR 妹纸在 V2 发招聘贴了..  [{北京} 悟空向各路英雄豪杰广发英雄帖](https://www.v2ex.com/t/364008) 
 
 # 最近 3 个月
-
-![](http://d.pr/i/tYiAbY+)
 
 1. [ishawn.wang](https://www.ishawn.wang) 博客迁移 [Farbox](https://www.farbox.com) -> [Gohost]()
     - 博客迁移小总结 : [博客搬家 Vultr + Ghost](https://www.ishawn.wang/page/2/#open)
@@ -57,20 +81,24 @@ Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler
 2. [思学 Node服务端接口](http://api.sixue.me/course/59808c5c7c534e1c8be6fad9)
     - Express + MongoDB + [Vultr](https://www.vultr.com) VPS
     
-3. [思学 iOS 端] 界面基本完善, 功能还差很多
+3. [思学 iOS 端]()
+界面基本完善, 功能还差很多
+
+App 截图 :
 ![](http://d.pr/i/mrM5yp+)
+
     - 是和我前同事(设计), 一起做的一个练手项目,使用 [Zeplin：前端与设计协同工作专用工具](https://www.waerfa.com/zeplin) 远程协作, 
         除了常规的配置, 比如 Alamofire, Kingfisher, SnapKit等, 比较有亮点的东西 : 
         
-        - [React Native](https://facebook.github.io/react-native/) : 移动开发的未来
-        - [IGListKit](https://github.com/Instagram/IGListKit)
-        - [JLRoutes](https://github.com/joeldev/JLRoutes) : 路由动态跳转
-        - [RxSwift](https://github.com/ReactiveX/RxSwift) : 一直没能用起来的 Rx
-        - [RealmSwift](https://realm.io/cn/) : 新手很友好, 1 天就上手了..
-        - [CodePush](https://microsoft.github.io/code-push/) : React Native 热更新
-        - [Fastlane](https://github.com/fastlane/fastlane) : 自动打包
-        - [Fabric Crashlystics](https://fabric.io/) : 崩溃收集
-        - [蒲公英](https://www.pgyer.com) : ipa 分发
+- [React Native](https://facebook.github.io/react-native/) : 移动开发的未来
+- [IGListKit](https://github.com/Instagram/IGListKit)
+- [JLRoutes](https://github.com/joeldev/JLRoutes) : 路由动态跳转
+- [RxSwift](https://github.com/ReactiveX/RxSwift) : 一直没能用起来的 Rx
+- [RealmSwift](https://realm.io/cn/) : 新手很友好, 1 天就上手了..
+- [CodePush](https://microsoft.github.io/code-push/) : React Native 热更新
+- [Fastlane](https://github.com/fastlane/fastlane) : 自动打包
+- [Fabric Crashlystics](https://fabric.io/) : 崩溃收集
+- [蒲公英](https://www.pgyer.com) : ipa 分发
 
 
 # 技能树
@@ -115,13 +143,28 @@ Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler
 1. 太年轻, 预估时间, 做决策, 热点链接 wifi, 某厂商合作专版
 2. 
 
-# Why not runtime ?
-1. 我加入公司, App 成熟上架1年多, 
-2. 稳定性 > 一切
+
+# 社交账号 (没啥亮点)
+
+0. [Github](https://github.com/iShawnWang)
+1. [StackOverflow](https://stackoverflow.com/users/5767487/shawn-wang?tab=profile)
+2. [V2EX](https://www.v2ex.com/member/iShawnWang)
+
+
+# Contact
+- Email : iShawnWang2333@gmail.com
+- WeChat : wangdapishuai
+- tel : 18512416861
+- 辽宁 - 沈阳
+
 
 # 感谢
 
-1010011010 ( [二级制转十进制](http://tool.oschina.net/hexconvert) ) 
+彩蛋 : 1010011010 ( [二级制转十进制](http://tool.oschina.net/hexconvert) ) 
+
 感谢你能看到这
+
+#:D
+
 
 
