@@ -14,7 +14,28 @@
 Node JS [V2EX_Nodejs](https://github.com/iShawnWang/V2EX_Nodejs)
 Python + Scrapy 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler)
 
-前公司 : [北京卡卡罗特科技有限公司](https://www.qichacha.com/firm_103e23b6e41f4b4da807639414812319.html)
+前公司 20160801 - 201706011 : [北京卡卡罗特科技有限公司](https://www.qichacha.com/firm_103e23b6e41f4b4da807639414812319.html)
+
+工作中的技术要点 : 
+
+- Mac mini + Jenkins + Fastlane 搭建集成测试环境, 其实就是用它打包
+- Router 跳转, 支持服务端, 使用 [JLRoutes](https://github.com/joeldev/JLRoutes) 根据服务端返回 url, 实现动态跳转页面
+- 调研 & 实现 iOS 9+ [Universal Links](http://strivingboy.github.io/blog/2015/09/27/ios9/), 使分享到微信的网页能直接调起我们 App
+- 接入 JSPatch, 稳定使用到苹果爸爸不让用了..  :(
+- 参考网易云音乐, 实现每个 ViewController 单独导航头样式, 并且支持侧滑返回
+- JS OC 通过 JSCore 通信
+- 从 0 上架换壳应用 * 2
+- 接入自定义的开屏广告, (显示内容有我们后台配置图片)
+- Git rebase, Git hook
+- 调研 ATS ,Https 接口替换, 中间人攻击
+- 和合作商讨论接入广告条
+- 支持 3D Touch, 调用私有 Api
+- 重构部分 ViewController 支持空白页面(没有数据或者网络错误显示的页面)
+- 写了个 CIBN iOS版 付费 + 请求视频地址 SDK
+- 学习 Swift + 调研 tvOS, 开发 Apple TV 健身项目 : Daily Up
+- Python + FFMpeg 写批量转换视频格式脚本
+- 修改遥控器协议
+- 死磕几个疑难 Bug
 
 [悟空遥控器--好用的智能电视助手](https://itunes.apple.com/de/app/悟空遥控器-好用的智能电视助手/id963627758?mt=8) 和 [官网](http://www.wukongtv.com)
 
