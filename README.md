@@ -117,6 +117,7 @@ App 截图 :
 - [Fastlane](https://github.com/fastlane/fastlane) : 自动打包
 - [Fabric Crashlystics](https://fabric.io/) : 崩溃收集
 - [蒲公英](https://www.pgyer.com) : ipa 分发
+- [Slack](https://slack.com) : 发送打包和测试的通知
 
 
 # 技能树
