@@ -1,6 +1,3 @@
-# 不会翻转二叉树
-
-
 # 从这里开始了解我
 
 ## 暴露水平的 Blog
@@ -18,6 +15,7 @@
 - [Python Scrapy V2EX 爬虫](https://www.ishawn.wang/25/)
 - [Node 服务端接口 & 爬虫](https://ishawn.wang/24/)
 - [React Native 试水](https://ishawn.wang/21/)
+- **妈蛋, 期间 VPS 的 MongoDB 还被 [黑客粑粑删了勒索比特币](https://www.v2ex.com/t/384785#reply1)**
 
 学生时期的文章:
 
@@ -45,6 +43,7 @@
 
 1. [StackOverflow](https://stackoverflow.com/users/5767487/shawn-wang?tab=profile)
 2. [V2EX](https://www.v2ex.com/member/iShawnWang)
+3. [Weibo](https://weibo.com/p/1005052848310723)
 
 
 # 工作经历
@@ -58,12 +57,12 @@
 2. 悟空遥控的海外版 : [CetusPlay](https://itunes.apple.com/us/app/cetusplay/id1219898700?mt=8)
     - 抽取公版功能, 修改界面动画, 相当于换壳应用
 3. 2 人合力开发的 [tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
-    - pure Swift3
+    - Pure Swift3
     - Moya
     - 内购 IAP
 
 
-工作中的技术要点 : 
+**工作中的技术要点 :**
 
 - 学习 Swift + 调研 tvOS, 开发 Apple TV 健身项目 : Daily Up
 - Mac mini + Jenkins + Fastlane 搭建集成测试环境
@@ -121,22 +120,23 @@ App 截图 :
 
 
 # 技能树
-- **                  iOS : 🀰🀰🀰🀰🀰🀰🀰🀰🀰**
-- **            Python : 🀰🀰🀰**
-- **               Node : 🀰🀰🀰**
-- **           Android : 🀰🀰**
-- **Html&Css&JS : 🀰🀰🀰🀰**
+-                   iOS : 🀰🀰🀰🀰🀰🀰🀰🀰🀰
+-             Python : 🀰🀰🀰
+-                Node : 🀰🀰🀰
+-            Android : 🀰🀰
+- Html&Css&JS : 🀰🀰🀰🀰
 
 
 # 差评
-1. 浮躁, 业余项目烂尾, 接触的东西多, 并不足够深入...
+
+1. 稍有浮躁, 业余项目烂尾, 接触的东西多, 并不足够深入...
 2. 尚未选定职业方向, 纯技术 ? 转管理 ? 创业 ?
 3. 情商和沟通能力欠佳
 
 # 同事评价
+
 1. 太年轻, 职业一点, 成熟一点
-2. 预估时间, 做技术决策, 厂商合作洽谈
-3. 
+2. 预估时间偏差, 做技术决策不果断, 厂商合作洽谈完全不懂 !
 
 
 # 近期计划
@@ -150,7 +150,7 @@ App 截图 :
 - WeChat : wangdapishuai
 - Tel : 18512416861
 - 辽宁 - 沈阳
-
+- [简历在线 Markdown](https://github.com/iShawnWang/Resume.md)
 
 # 感谢
 
