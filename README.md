@@ -1,5 +1,8 @@
-# 从这里开始了解我
+# Hello
 
+---
+
+# 从这里开始了解我
 ## 暴露水平的 Blog
 
 [iShawn.wang](https://ishawn.wang)  
@@ -16,6 +19,8 @@
 - [Node 服务端接口 & 爬虫](https://ishawn.wang/24/)
 - [React Native 试水](https://ishawn.wang/21/)
 - **妈蛋, 期间 VPS 的 MongoDB 还被 [黑客粑粑删了勒索比特币](https://www.v2ex.com/t/384785#reply1)**
+
+<br/>
 
 学生时期的文章:
 
@@ -154,5 +159,5 @@ App 截图 :
 
 # :D
 
-
+如果需要打印简历, 附件中的 pdf 文件已经整理好了 ~
 
