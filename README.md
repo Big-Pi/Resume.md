@@ -1,163 +1,131 @@
-# Hello
+
+
+## 介绍
+
+王帅, 25 岁, 3 年经验, 前端开发, 辽宁 - 沈阳
+
+[沈阳工程学院](http://www.sie.edu.cn/#) 本科
+
+邮箱 : [iShawnWang2333@gmail.com](mailto:iShawnWang2333@gmail.com) 
+
+微信 : wangdapishuai
+
+电话 : 18512416861
 
 ---
 
-# 从这里开始了解我
-## 暴露水平的 Blog
-
-[iShawn.wang](https://ishawn.wang)  
-
-- 基于 [Ghost](https://ghost.org),  搭建在 [Vultr](https://www.vultr.com) VPS 上
-- 还写了篇 博客 迁移小总结 : [博客搬家 Vultr + Ghost](https://www.ishawn.wang/20/)
-- 也同步发在 [我的简书](http://www.jianshu.com/u/192cd7521ac8)
-
----
-
-最近的文章 : 
-
-- [Python Scrapy V2EX 爬虫](https://www.ishawn.wang/25/)
-- [Node 服务端接口 & 爬虫](https://ishawn.wang/24/)
-- [React Native 试水](https://ishawn.wang/21/)
-- **妈蛋, 期间 VPS 的 MongoDB 还被 [黑客粑粑删了勒索比特币](https://www.v2ex.com/t/384785#reply1)**
-
-<br/>
-
-学生时期的文章:
-
-1. [SDWebImage 源码分析系列](https://ishawn.wang/8/)
-2. [iOS 抓取 HTML ,CSS XPath 解析数据](https://ishawn.wang/5/) : 被 [伯乐在线](http://www.jobbole.com) 推荐过
-3. [图片缓存框架 FastImageCache 解析](https://ishawn.wang/3/)
-
---- 
-## 暴露水平的 Github
-最近的 Project
-
-0. [StateMachine](https://github.com/iShawnWang/StateMachine) ViewController 状态机实践
-1. [V2EX_Nodejs](https://github.com/iShawnWang/V2EX_Nodejs) V2EX NodeJS 最近的文章, 登录 接口
-2. Python 爬虫 [V2EX_Crawler](https://github.com/iShawnWang/V2EX_Crawler) Scrapy 爬取 V2EX 最近的文章, 存储到 Mongodb
-
-学生时期 Project
-
-0. [PiChat](https://github.com/iShawnWang/PiChat) 基于 Leancloud 的即时聊天应用
-2. [基于 Three.js 的机械零件装配虚拟实验平台](https://github.com/iShawnWang/Mechanical-Part-Assemble-Virtual-experiment-platform) 计算机设计大赛一等奖
-1. [把简历做成一个小 App](https://github.com/iShawnWang/MyResume)
-3. [沈阳师范大学绩点小助手 - GPAQuery](https://github.com/iShawnWang/GPAQuery) 帮别人做的毕设
-4. [To-Do List : TinyDo](https://github.com/iShawnWang/TinyDo) Windows Phone 版 App copy
-
-## 其它社交账号 (没啥亮点)
-
-1. [StackOverflow](https://stackoverflow.com/users/5767487/shawn-wang?tab=profile)
-2. [V2EX](https://www.v2ex.com/member/iShawnWang)
-3. [Weibo](https://weibo.com/p/1005052848310723)
 
 
-# 工作经历
+**参与开源项目 [Moss Spring Cloud 体系的服务治理平台](https://github.com/SpringCloud/Moss) 的前端开发**
 
-> #### 前公司 20160801 - 20170611 (我不管, 算上加班就是一年工作经验)
->[北京卡卡罗特科技有限公司](https://www.qichacha.com/firm_103e23b6e41f4b4da807639414812319.html)
+**希望参与 :** 
 
-#### 公司主项目
+ 	1. 前端多端 
+ 	2. 可视化, 所见即所得
+ 	3. WebGL
 
-1. [悟空遥控器--好用的智能电视助手](https://itunes.apple.com/de/app/悟空遥控器-好用的智能电视助手/id963627758?mt=8) 和 [官网](http://www.wukongtv.com)
-2. 悟空遥控的海外版 : [CetusPlay](https://itunes.apple.com/us/app/cetusplay/id1219898700?mt=8)
-    - 抽取公版功能, 修改界面动画, 相当于换壳应用
-3. 2 人合力开发的 [tvOS 健身应用 DailyUp Fitness](https://itunes.apple.com/us/app/dailyup-fitness/id1240741148?mt=8)
-    - Pure Swift3
-    - Moya
-    - 内购 IAP
+可以独立负责功能模块或者整个应用的开发
+
+[个人博客(需梯子)](https://ishawn.wang) | [Github](https://github.com/iShawnWang) | [StackOverflow](https://stackoverflow.com/users/5767487/shawn-wang) | [V2EX](https://www.v2ex.com/member/iShawnWang)
 
 
-**工作中的技术要点 :**
 
-- 学习 Swift + 调研 tvOS, 开发 Apple TV 健身项目 : Daily Up
-- Mac mini + Jenkins + Fastlane 搭建集成测试环境
-- 接入 JSPatch, 稳定使用到苹果爸爸不让用了..  :(
-- 写了个 CIBN iOS版 付费 + 请求视频地址 SDK
-- 组件化, Router 跳转, 使用 [JLRoutes](https://github.com/joeldev/JLRoutes) 根据服务端返回 url, 实现动态跳转页面
-- 参考网易云音乐, 实现每个 ViewController 单独导航头样式, 并且支持侧滑返回
-- 接入自定义的开屏广告, (显示内容有我们后台配置图片)
-- 调研 & 实现 iOS 9+ [Universal Links](http://strivingboy.github.io/blog/2015/09/27/ios9/), 使分享到微信的网页能直接调起我们 App
-- JS OC 通过 JSCore 通信
-- 从 0 上架换壳应用 * 2
-- Git rebase, Git hook
-- 调研 ATS ,Https 接口替换, 中间人攻击
-- 和合作商讨论接入广告条
-- 支持 3D Touch, 调用私有 Api
-- 重构部分 ViewController 支持空白页面(没有数据或者网络错误显示的页面)
-- Python + FFMpeg 写批量转换视频格式脚本
+## 技术栈
+
+- 前端 : React 全家桶 + Ant Design
+  - TypeScript, React Router, Redux(Dva), Next.js, Immutable, Less + CSS Module, webpack
+- 图表 : d3.js, 阿里 AntV-g2, 实时刷新动态图表
+- 后端 node :   Egg.js + Docker + Gitlab CI
+
+- 应用基础框架 : 阿里 umi.js
+
+- 其它 : 电商, 点餐, 微信小程序开发
 
 
-还有我离职之前 HR 妹纸在 V2 发招聘贴了..  [{北京} 悟空向各路英雄豪杰广发英雄帖](https://www.v2ex.com/t/364008) 
 
-# 最近 3 个月我在干什么 ?
+## 近期工作内容
 
-1. 博客迁移 [Farbox](https://www.farbox.com) -> [Ghost]()
-    - 博客迁移小总结 : [博客搬家 Vultr + Ghost](https://www.ishawn.wang/page/2/#open)
-2. 开拓思维, 学习 服务端 Node, Vue, React Native, Python 爬虫等
-3. 下面的 Side Project
-
-####  最近在做的 Side Project
-
-和设计师做我们俩都喜欢的 Side Project, 在线教育 App `思学`,
-并尝试使用新工具 : [Zeplin：前端与设计协同工作专用工具](https://www.waerfa.com/zeplin) 远程协作
-
-1. [思学网站](http://sixue.me)
-        - 前端菜鸡, 完全扒的 [https://getmimo.com](https://getmimo.com) 这个网站
-2. [思学 Node服务端接口](http://api.sixue.me/course/59808c5c7c534e1c8be6fad9)
-    - Express + MongoDB + [Vultr](https://www.vultr.com) VPS 部署
-3. 思学 iOS 端
-        界面基本完善, 功能还差很多
-
-App 截图 :
-![](http://d.pr/i/mrM5yp+)
-
-除了常规的配置, 比如 Alamofire, Kingfisher, SnapKit等, 比较有亮点的东西 : 
-        
-- [React Native](https://facebook.github.io/react-native/) : 移动开发的未来
-- [IGListKit](https://github.com/Instagram/IGListKit)
-- [JLRoutes](https://github.com/joeldev/JLRoutes) : 路由动态跳转
-- [RxSwift](https://github.com/ReactiveX/RxSwift) : 一直没能用起来的 Rx
-- [RealmSwift](https://realm.io/cn/) : 新手很友好, 1 天就上手了..
-- [CodePush](https://microsoft.github.io/code-push/) : React Native 热更新
-- [Fastlane](https://github.com/fastlane/fastlane) : 自动打包
-- [Fabric Crashlystics](https://fabric.io/) : 崩溃收集
-- [蒲公英](https://www.pgyer.com) : ipa 分发
-- [Slack](https://slack.com) : 发送打包和测试的通知
+- **想做一个 JSON 配置式 & 可视化 所见即所得 页面编辑器**
+- 基于 d3.js + AntV - g2 的动态图表绘制
+- 基础组件封装 : 语义化组件?, 空数据, 头像, 根据数据智能展示表格, 全局 loading , Error Boundary 组件
+- 动态表单编辑 + 可视化
+- 基于 JWT 的注册登录
+- 迁移到 umi.js 作为项目基础框架
+- 日志 + 代码 : 自定义高亮
+- 基于 `new Function` 动态执行 后台配置的判定规则
+- PostCSS 插件 : 支持类似 `-webkit` 的特定打包环境下自定义样式
 
 
-# 技能树
--                   iOS : 🀰🀰🀰🀰🀰🀰🀰🀰🀰
--             Python : 🀰🀰🀰
--                Node : 🀰🀰🀰
--            Android : 🀰🀰
-- Html&Css&JS : 🀰🀰🀰🀰
 
-# 同事评价
-
-1. 太年轻, 职业一点, 成熟一点
-2. 预估时间偏差, 做技术决策不果断, 厂商合作洽谈完全不懂 !
+## 前端工程 & 优化
 
 
-# 近期计划
-1. 找几篇喜欢的 Swift 文章, 翻译, 混入 [Swift GG](http://swift.gg/about/) 组织
-2. 在 [利器](http://liqi.io/about/) 投稿我自己的工作栈
+
+#### 工程
+
+- 组件 页面 状态机
+- 可插拔的 webpack 体系 : stylelint
+- Context 改写 eventbus
+- 前端请求工具类封装 基于 axios : 登录过期, 自动跳转登录, 自动设置 token, 全局请求错误提示, auto retry
+- SSE EventSource 实时消息推送
+- CSS Variable 换肤 主题
 
 
-# Contact
-- 王帅, 23
-- Email : iShawnWang2333@gmail.com
-- WeChat : wangdapishuai
-- Tel : 18512416861
-- 辽宁 - 沈阳
-- [简历在线 Markdown](https://github.com/iShawnWang/Resume.md)
 
-# 感谢
+#### 优化
 
-彩蛋 : 1010011010 ( [二级制转十进制](http://tool.oschina.net/hexconvert) ) 
+- Chrome Frame 火焰图 优化 前端编辑器卡顿
+- React loadable + React memo + immutable
+- Webp
+- code split import()
+- Tree Shake : lodash, AntV, Ant Design
 
-感谢你能看到这
 
-# :D
 
-如果需要打印简历, 附件中的 pdf 文件已经整理好了 ~
+## 工作经历
 
+
+
+#### [贝壳金服](https://www.bkjk.com/) 2018.12 至今
+
+**Halo 服务治理中台项目 : 对 Java Spring Boot 应用进行可视化管理**
+
+**告警管理平台 : 管理项目负责人员, 及告警分派, 通知策略**
+
+- TypeScript
+
+- RBAC 角色权限控制, 复杂动态表单, d3.js + AndV-g2 图表
+
+
+
+#### [Strikingly : 上海鲸科信息有限公司](https://www.qichacha.com/firm_c31877acd659308657e67961bc455aa2.html) (2017.09.18 - 2018.12)
+
+点餐, 电商 小程序 + 电商网站编辑器后台开发
+
+- 所见即所得可视化编辑器 : React 全家桶, immutable, reselect
+- Node.js server: docker CI + 自动化发布 + CDN 配置
+- React Native 移动端 Hybrid
+
+
+
+#### [北京卡卡罗特科技有限公司](http://www.baibianwukong.com/#firstPage) (2016.7 - 2017.5)
+
+iOS 移动端应用 [悟空遥控器](http://www.baibianwukong.com/) 开发 : OC + Swift
+
+- CIBN 视频支付 SDK, IPA应用内购买, 重构支持动态路由, JSPatch 热更新, Jenkins CI 自动打包
+
+- 原生 &H5 交互 hybrid App
+
+
+
+## 工作流
+
+近期独立负责完成并推动 **告警管理平台** 前端项目, 总结了一下个人的工作流
+
+1. 项目需求管理 : Xmind Zen 思维导图 / Gitlab issue board / Gira 全家桶
+
+2. 设计: Sketch / Zeplin
+
+3. 文档: Postman API 接口文档 + 语雀 / Gitlab Wiki
+4. 前后端分离开发: Postman 约定 api + mock
+5. Fantastical 2: 个人工作点汇总
